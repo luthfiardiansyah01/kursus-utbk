@@ -1,9 +1,9 @@
 [
-	{"tanggal": "16 Juni 2022", "biaya": 500000, "kategori": "BOOTCAMP", "jenis": "SAINTEK"},
-	{"tanggal": "17 Juni 2022", "biaya": 450000, "kategori": "REGULER", "jenis": "SOSHUM"},
-	{"tanggal": "18 Juni 2022", "biaya": 550000, "kategori": "INTENSIF", "jenis": "CAMPURAN"},
-	{"tanggal": "19 Juni 2022", "biaya": 250000, "kategori": "BOOTCAMP", "jenis": "SAINTEK"},
-	{"tanggal": "20 Juni 2022", "biaya": 300000, "kategori": "REGULER", "jenis": "SOSHUM"},
-	{"tanggal": "21 Juni 2022", "biaya": 400000, "kategori": "INTENSIF", "jenis": "CAMPURAN"},
-	{"tanggal": "22 Juni 2022", "biaya": 600000, "kategori": "BOOTCAMP", "jenis": "SAINTEK"},
+	{"tanggal": "16 Juni 2022", "biaya": 500000, "kategori": "BOOTCAMP", "jenis": "SAINTEK", "imageId": "bootcamp"},
+	{"tanggal": "17 Juni 2022", "biaya": 450000, "kategori": "REGULER", "jenis": "SOSHUM", "imageId": "reguler"},
+	{"tanggal": "18 Juni 2022", "biaya": 550000, "kategori": "INTENSIF", "jenis": "CAMPURAN", "imageId": "intensif"},
+	{"tanggal": "19 Juni 2022", "biaya": 250000, "kategori": "BOOTCAMP", "jenis": "SAINTEK", "imageId": "bootcamp"},
+	{"tanggal": "20 Juni 2022", "biaya": 300000, "kategori": "REGULER", "jenis": "SOSHUM", "imageId": "reguler"},
+	{"tanggal": "21 Juni 2022", "biaya": 400000, "kategori": "INTENSIF", "jenis": "CAMPURAN", "imageId": "intensif"},
+	{"tanggal": "22 Juni 2022", "biaya": 600000, "kategori": "BOOTCAMP", "jenis": "SAINTEK", "imageId": "bootcamp"},
 ]
