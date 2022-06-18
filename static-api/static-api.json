@@ -1,9 +1,9 @@
 [
-	{"nama":"Luthfi", "jenis": "SAINTEK"},
-	{"nama":"Ardi", "jenis": "SOSHUM"},
-	{"nama":"Dyan", "jenis": "CAMPURAN"},
-	{"nama":"Yansa", "jenis": "SAINTEK"},
-	{"nama":"Ardian", "jenis": "SOSHUM"},
-	{"nama":"Fiardi", "jenis": "CAMPURAN"},
-	{"nama":"Ardiansyah", "jenis": "SAINTEK"},
+	{"nama":"Luthfi", "jenis": "SAINTEK", "imageId": "saintek"},
+	{"nama":"Ardi", "jenis": "SOSHUM", "imageId": "soshum"},
+	{"nama":"Dyan", "jenis": "CAMPURAN", "imageId": "campuran"},
+	{"nama":"Yansa", "jenis": "SAINTEK", "imageId": "saintek"},
+	{"nama":"Ardian", "jenis": "SOSHUM", "imageId": "sosohum"},
+	{"nama":"Fiardi", "jenis": "CAMPURAN", "imageId": "campuran"},
+	{"nama":"Ardiansyah", "jenis": "SAINTEK", "imageId": "saintek"},
 ]
