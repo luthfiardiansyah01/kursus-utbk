@@ -1,12 +1,9 @@
 [
-    {"nama": "Angsa", "namaLatin": "Cygnus olor", "imageId": "angsa"},
-    {"nama": "Ayam", "namaLatin": "Gallus gallus", "imageId": "ayam"},
-    {"nama": "Bebek", "namaLatin": "Cairina moschata", "imageId": "bebek"},
-    {"nama": "Domba", "namaLatin": "Ovis ammon", "imageId": "domba"},
-    {"nama": "Kalkun", "namaLatin": "Meleagris gallopavo", "imageId": "kalkun"},
-    {"nama": "Kambing", "namaLatin": "Capricornis sumatrensis", "imageId": "kambing"},
-    {"nama": "Kelinci", "namaLatin": "Oryctolagus cuniculus", "imageId": "kelinci"},
-    {"nama": "Kerbau", "namaLatin": "Bubalus bubalis", "imageId": "kerbau"},
-    {"nama": "Kuda", "namaLatin": "Equus caballus", "imageId": "kuda"},
-    {"nama": "Sapi", "namaLatin": "Bos taurus", "imageId": "sapi"}
+	{"nama":"Luthfi", "jenis": "SAINTEK", "imageId": "saintek"},
+	{"nama":"Ardi", "jenis": "SOSHUM", "imageId": "soshum"},
+	{"nama":"Dyan", "jenis": "CAMPURAN", "imageId": "campuran"},
+	{"nama":"Yansa", "jenis": "SAINTEK", "imageId": "saintek"},
+	{"nama":"Ardian", "jenis": "SOSHUM", "imageId": "sosohum"},
+	{"nama":"Fiardi", "jenis": "CAMPURAN", "imageId": "campuran"},
+	{"nama":"Ardiansyah", "jenis": "SAINTEK", "imageId": "saintek"},
 ]
